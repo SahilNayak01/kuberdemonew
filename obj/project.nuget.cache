@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m0usXSBugqVJp1O1W9sSpfT2jXCj4k+6g1Q/cjkVKs6c7ztpzTWRmGYy284rSI4jI1dLcyp+wiATBB848Dtebw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SAHIL\\source\\repos\\kuberdemonew\\kuberdemonew.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SAHIL\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
