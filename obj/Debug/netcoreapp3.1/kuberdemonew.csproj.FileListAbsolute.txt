@@ -7,3 +7,15 @@ C:\Users\SAHIL\source\repos\kuberdemonew\obj\Debug\netcoreapp3.1\kuberdemonew.As
 C:\Users\SAHIL\source\repos\kuberdemonew\obj\Debug\netcoreapp3.1\kuberdemonew.RazorTargetAssemblyInfo.cache
 C:\Users\SAHIL\source\repos\kuberdemonew\obj\Debug\netcoreapp3.1\staticwebassets\kuberdemonew.StaticWebAssets.Manifest.cache
 C:\Users\SAHIL\source\repos\kuberdemonew\obj\Debug\netcoreapp3.1\staticwebassets\kuberdemonew.StaticWebAssets.xml
+C:\Users\SAHIL\source\repos\kuberdemonew\bin\Debug\netcoreapp3.1\kuberdemonew.exe
+C:\Users\SAHIL\source\repos\kuberdemonew\bin\Debug\netcoreapp3.1\Wallpaper.yaml
+C:\Users\SAHIL\source\repos\kuberdemonew\bin\Debug\netcoreapp3.1\kuberdemonew.deps.json
+C:\Users\SAHIL\source\repos\kuberdemonew\bin\Debug\netcoreapp3.1\kuberdemonew.runtimeconfig.json
+C:\Users\SAHIL\source\repos\kuberdemonew\bin\Debug\netcoreapp3.1\kuberdemonew.runtimeconfig.dev.json
+C:\Users\SAHIL\source\repos\kuberdemonew\bin\Debug\netcoreapp3.1\kuberdemonew.dll
+C:\Users\SAHIL\source\repos\kuberdemonew\bin\Debug\netcoreapp3.1\kuberdemonew.pdb
+C:\Users\SAHIL\source\repos\kuberdemonew\obj\Debug\netcoreapp3.1\kuberdemonew.csproj.CoreCompileInputs.cache
+C:\Users\SAHIL\source\repos\kuberdemonew\obj\Debug\netcoreapp3.1\kuberdemonew.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SAHIL\source\repos\kuberdemonew\obj\Debug\netcoreapp3.1\kuberdemonew.dll
+C:\Users\SAHIL\source\repos\kuberdemonew\obj\Debug\netcoreapp3.1\kuberdemonew.pdb
+C:\Users\SAHIL\source\repos\kuberdemonew\obj\Debug\netcoreapp3.1\kuberdemonew.genruntimeconfig.cache
